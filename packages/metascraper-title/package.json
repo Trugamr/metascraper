@@ -2,7 +2,7 @@
   "name": "metascraper-title",
   "description": "Get title property from HTML markup",
   "homepage": "https://metascraper.js.org",
-  "version": "5.42.2",
+  "version": "5.42.5",
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "author": {
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://nicedoc.io/microlinkhq/metascraper/packages/metascraper-title"
+    "url": "https://github.com/microlinkhq/metascraper/packages/metascraper-title"
   },
   "bugs": {
     "url": "https://github.com/microlinkhq/metascraper/issues"
@@ -22,7 +22,7 @@
     "title"
   ],
   "dependencies": {
-    "@metascraper/helpers": "^5.40.0"
+    "@metascraper/helpers": "^5.42.5"
   },
   "engines": {
     "node": ">= 16"

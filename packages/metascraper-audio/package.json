@@ -1,8 +1,8 @@
 {
   "name": "metascraper-audio",
   "description": "Get audio property from HTML markup",
-  "homepage": "https://nicedoc.io/microlinkhq/metascraper/packages/metascraper-audio",
-  "version": "5.42.2",
+  "homepage": "https://github.com/microlinkhq/metascraper/packages/metascraper-audio",
+  "version": "5.42.6",
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "author": {
@@ -23,11 +23,12 @@
     "metascraper"
   ],
   "dependencies": {
-    "@metascraper/helpers": "^5.40.0",
+    "@metascraper/helpers": "^5.42.5",
     "lodash": "~4.17.21",
     "p-reflect": "~2.1.0"
   },
   "devDependencies": {
+    "async-listen": "latest",
     "ava": "5"
   },
   "engines": {
